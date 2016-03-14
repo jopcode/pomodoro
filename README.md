@@ -1,2 +1,2 @@
 # pomodoro
-Tecnica pomodoro para aumentar productividd
+Tecnica pomodoro para aumentar productividad
